@@ -12,4 +12,4 @@ Finished:
 
 Working on:
 - "Python Data Associate Certification"
-- "Data Analyst Certification"
+- "Data Analyst Certification (Python)"
