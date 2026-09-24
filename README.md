@@ -6,4 +6,10 @@ Most certifications were completed between late 2024 & late 2025; however, some 
 The Data Analyst Associate certification was achieved in March, 2025. The Data Analyst certification was achieved in November, 2025.
 
 PROGRESS:
-- have finished "SQL Associate Certification"
+Finished:
+- "SQL Associate Certification"
+- "Data Analyst Associate Certification (SQL)"
+
+Working on:
+- "Python Data Associate Certification"
+- "Data Analyst Certification"
