@@ -1,6 +1,6 @@
 # Python Data Associate Certification - Practical Exam
 
-This certification exam (DataCamp) performed various tasks within Python, particularly exploratory analysis, preprocessing & fixing inconsistencies, data aggregation, & statistical analyses. The dataset concerned paint products.
+This certification exam (_DataCamp_) performed various tasks within Python, particularly exploratory analysis, preprocessing & fixing inconsistencies, data aggregation, & statistical analyses. The dataset concerned paint products.
 This exam has been taken & completed (or renewed) multiple times: November, 2024 & August, 2026. For clarity, both exams contained the same guidelines & dataset.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
