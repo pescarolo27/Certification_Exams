@@ -1,6 +1,6 @@
 # SQL Associate Certification - Practical Exam
 
-This certification exam (DataCamp) performed various tasks within SQL, particularly exploratory analysis, preprocessing & fixing inconsistencies, & data aggregation. The dataset concerned hotel operations including three unique SQL tables.  
+This certification exam (_DataCamp_) performed various tasks within SQL, particularly exploratory analysis, preprocessing & fixing inconsistencies, & data aggregation. The dataset concerned hotel operations including three unique SQL tables.  
 This exam has been taken & completed (or renewed) multiple times: November, 2024 & August, 2026. For clarity, both exams contained the same guidelines & dataset.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
