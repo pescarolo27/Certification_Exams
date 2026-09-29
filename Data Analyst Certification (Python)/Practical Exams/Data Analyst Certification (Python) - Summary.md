@@ -35,7 +35,7 @@ Following these initial analyses, the main analysis, having to do with providing
 - _Email only_:      It is estimated that constructing & sending an email took no more than three minutes on average.
 - _Email + Call_:    Customers were sent an email & called about a week later. These phone calls were around ten minutes on average per customer.
 
-With these estimates, the ratio of the typical revenue per customer & the typical amount of time spent on each customer can be obtained for each sales method. Generally, the value of this metric increased over six-week period. In the most recent week of data, the three sales methods have the following typical revenue efficiencies.
+With these estimates, the ratio of the typical revenue per customer & the typical amount of time spent on each customer can be obtained for each sales method. Generally, the value of this metric increased over the six-week period. In the most recent week of data, the three sales methods had the following typical revenue efficiencies.
 - _Phone Call only_: About \$132 per hour.
 - _Email only_:      About \$2,597 per hour.
 - _Email + Call_:    About \$1,047 per hour.
