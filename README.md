@@ -2,7 +2,7 @@
 
 This repository contains files pertaining to sample & practical certification exams from DataCamp. More specifically, they directly pertain to exams done in Python, R, &/or SQL.
 
-There are four unique certifications within this repository, most of which were completed between late 2024 & late 2025; however, some required renewals after two years following completion.
+There are four unique certifications within this repository, most of which were completed between late 2024 & late 2025; however, some required renewals after two years following the most recent completion.
 - The Python Data Associate & SQL Associate certifications were firstly completed in November, 2024, but renewals were completed in August, 2026.
 - The Data Analyst Associate (SQL) certification was achieved in March, 2025. The Data Analyst (python) certification was achieved in November, 2025.
 
