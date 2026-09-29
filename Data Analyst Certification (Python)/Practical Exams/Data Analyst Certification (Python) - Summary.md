@@ -50,7 +50,7 @@ Utilizing both sales techniques resulted in the most revenue per customer, but t
 
 On another note, it is important that the company continues to monitor this metric (& any others they have used or found useful) because customer purchasing habits can change easily. Allowing for flexibility is essential if, for example, customers were to suddenly become considerably more enamored by the products via phone call & less so by email. Moreover, if total revenue were to stop increasing or decline, new strategies or plans may need to be considered or conceived so that the company doesn't become uncompetitive or unprofitable.
 
-> In summary, an optimal strategy moving forward would involve mostly emailing customers & occasionally calling some people about a week after emailing them; the "Email" & "Email + Call" sales methods. Calling people who have not been emailed—the "Call" method—should be used at a minimum.
+> In summary, an optimal strategy moving forward would involve mostly emailing customers & occasionally calling some people about a week after emailing them (the "Email" & "Email + Call" sales methods). Calling people who have not been emailed (the "Call" method) should be used at a minimum.
 
 With this information in mind, it would be useful for the sales team to have a more defined plan as to how to optimize their time across the three sales methods. Since emails have the greatest revenue efficiency per customer & they require the least amount of time of the three sales methods, the revenue would theoretically be maximized if all of the sales team's time was allotted to this method alone; however, having some diversity in advertising approaches is more ideal to help keep the business competitive, relevant, & flexible.
 
