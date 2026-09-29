@@ -6,4 +6,4 @@ There are four unique certifications within this repository, most of which were 
 - The Python Data Associate & SQL Associate certifications were firstly completed in November, 2024, but renewals were completed in August, 2026.
 - The Data Analyst Associate (SQL) certification was achieved in March, 2025. The Data Analyst (python) certification was achieved in November, 2025.
 
-There are short summaries for each practical exam/project contained within each certification folder.
+There are brief summaries for each practical exam/project contained within each certification folder.
