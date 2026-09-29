@@ -12,11 +12,11 @@ Six weeks ago, we launched a new line of office stationery. Despite the world be
 - **Email & call:** Customers in this group were first sent the product information email then called a week later by the sales team to talk about their needs and how this new product may support their work. The email required little work from the team—the call was around ten minutes per customer.
 
 In discussions between the sales & analytical teams, the former has requested responses to five distinct inquiries.
-- How many customers were there for each approach?
-- What does the spread of the revenue look like overall? And for each method?
-- Was there any difference in revenue over time for each of the methods?
-- Based on the data, which method would you recommend we (the sales team) continue to use? Some of these methods take more time from the team so they may not be the best for us to use if the results are similar.
-- We don't really know if there are other differences between the customers in each group, so anything you can tell us would be really helpful to give some context to what went well.
+- _How many customers were there for each approach?_
+- _What does the spread of the revenue look like overall? And for each method?_
+- _Was there any difference in revenue over time for each of the methods?_
+- _Based on the data, which method would you recommend we (the sales team) continue to use? Some of these methods take more time from the team so they may not be the best for us to use if the results are similar._
+- _We don't really know if there are other differences between the customers in each group, so anything you can tell us would be really helpful to give some context to what went well._
 
 
 
