@@ -1,6 +1,6 @@
 # Data Analyst Certification (Python) - Practical Exam
 
-This certification exam (_DataCamp_) performed various tasks within Python, particularly exploratory analysis, preprocessing & fixing inconsistencies, data aggregation, statistical analyses, the development of new variables, & recommendations. Making & recording a presentation was also required as part of the exam process. The dataset revolved around a fictional business that provides high-quality office products to large organizations & includes techniques the business has been employing to sell their products along with additional sales information. This exam has been taken & completed in: November, 2025.
+This certification exam (_DataCamp_) performed various tasks within Python, particularly exploratory analysis, preprocessing & fixing inconsistencies, data aggregation, statistical analyses, the development of new variables, & recommendations. Making & recording a presentation was also required as part of the exam process (the former of which can also be found in this repository; the recording, unfortunately, was too large a file for GitHub). The dataset revolved around a fictional business that provides high-quality office products to large organizations & includes techniques the business has been employing to sell their products along with additional sales information. This exam has been taken & completed in: November, 2025.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
